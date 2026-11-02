@@ -1,0 +1,6 @@
+{
+  "name": "Accordatore Pro",
+  "description": "Accordatore di precisione per chitarra e violino con metronomo, visualizzatore di forma d'onda, scale interattive, loop di batteria e registratore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
